@@ -1,1 +1,1 @@
-# Web-Applications-for-Everybody-Specialization
+This is a Specialization course I completed in coursera and also earned certificates for the same. This course contains building web application with PHP, learning SQL, and also doing database opeartions using PHP. This course also helps us to learn Javascript, JSON and JQuery.
